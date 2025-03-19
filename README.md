@@ -25,7 +25,7 @@ I'm a Data Analyst passionate about technology and innovation, always seeking ne
 
 ---    
 ## 🤖 Telegram Bot Storytelling  
-[![Telegram Bot](https://raw.githubusercontent.com/yandesousa/bakurakan/main/images/bot.png)](https://github.com/yandesousaE/bakurakan)  
+[![Telegram Bot](https://raw.githubusercontent.com/yandesousa/bakurakan/main/images/bot.png)](https://github.com/yandesousa/bakurakan)  
 🔹 **Description:** Created an interactive **Telegram bot** using **Machine Learning** to generate dynamic and engaging stories.  
 🔹 **Technologies:** Python, Telegram API, Machine Learning  
 🔹 **🔗 [View Repository](https://github.com/yandesousa/bakurakan)**  
